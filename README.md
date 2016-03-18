@@ -1,2 +1,2 @@
 # learn-you-a-haskell
-Haskell sikhne ke koshish
+Haskell सीखने की कोशिश
