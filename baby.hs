@@ -84,3 +84,5 @@ qsort (x:xs) = qsort larger ++ [x] ++ qsort smaller
 		larger = [b | b <- xs, b>x]
 
 
+
+
